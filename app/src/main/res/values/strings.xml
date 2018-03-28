@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarryMinati</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-1924260184768138/2872775894</string>
+    <string name="interstitial_full_screen">ca-app-pub-1924260184768138/6975672434</string>
+
+</resources>
